@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Link';
+    src: url('/LinkSans-Regular.woff2') format('woff2');
+}
+
+@import "tailwindcss";
+
+body{
+    background-color: #d4d4d8db;
+    font-family: "Link";
+}
