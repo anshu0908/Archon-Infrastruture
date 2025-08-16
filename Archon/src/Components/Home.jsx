@@ -1,5 +1,8 @@
 import React from 'react';
-
+import About from './About'
+import Values from './Values'
+import Design from './Desgin'
+import Projects from './Projects'
 const Home = () => {
   return (
     <> 
@@ -53,6 +56,10 @@ const Home = () => {
       </div>
     </div>
 
+  <About />
+      <Values />
+      <Design />
+      <Projects /> 
     </>
   );
 };

@@ -7,6 +7,7 @@ import {
 } from "lucide-react";
 
 const Contact = () => {
+  
   return (
     <div className="bg-neutral-900">
 
